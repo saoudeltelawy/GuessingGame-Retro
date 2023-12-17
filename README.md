@@ -1,5 +1,5 @@
 # Guessing Game-Retro
-GuessingGame-DRY: Master the Secret Number in 20 Tries!
+Master the Secret Number in 20 Tries!
 Challenge your logic and intuition in this addictive number-guessing game built with clean, DRY JavaScript!
 
 Features:
